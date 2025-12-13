@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025-2026\\NET\\lab4\\LabFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|c:\\2025-2026\\net\\lab4\\labfour\\proces\\processmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|solutionrelative:proces\\processmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|c:\\2025-2026\\net\\lab4\\labfour\\proces\\processmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|solutionrelative:proces\\processmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|c:\\2025-2026\\net\\lab4\\labfour\\proces\\processmanagerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A947-3C21-4AC4-A03B-54B550B496FE}|proces\\proces.csproj|solutionrelative:proces\\processmanagerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessManagerForm.Designer.cs",
+              "DocumentMoniker": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.Designer.cs",
+              "RelativeDocumentMoniker": "proces\\ProcessManagerForm.Designer.cs",
+              "ToolTip": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.Designer.cs*",
+              "RelativeToolTip": "proces\\ProcessManagerForm.Designer.cs*",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwNkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T20:10:09.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessManagerForm.cs",
+              "DocumentMoniker": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.cs",
+              "RelativeDocumentMoniker": "proces\\ProcessManagerForm.cs",
+              "ToolTip": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.cs*",
+              "RelativeToolTip": "proces\\ProcessManagerForm.cs*",
+              "ViewState": "AgIAALgAAAAAAAAAAADwv8YAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:55:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.cs",
+              "RelativeDocumentMoniker": "proces\\ProcessManagerForm.cs",
+              "ToolTip": "C:\\2025-2026\\NET\\lab4\\LabFour\\proces\\ProcessManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "proces\\ProcessManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:42:23.976Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

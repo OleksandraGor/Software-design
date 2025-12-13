@@ -1,0 +1,16 @@
+C:\2025-2026\NET\lab4\LabFour\proces\bin\Debug\net8.0-windows\proces.exe
+C:\2025-2026\NET\lab4\LabFour\proces\bin\Debug\net8.0-windows\proces.deps.json
+C:\2025-2026\NET\lab4\LabFour\proces\bin\Debug\net8.0-windows\proces.runtimeconfig.json
+C:\2025-2026\NET\lab4\LabFour\proces\bin\Debug\net8.0-windows\proces.dll
+C:\2025-2026\NET\lab4\LabFour\proces\bin\Debug\net8.0-windows\proces.pdb
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.ProcessManagerForm.resources
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.csproj.GenerateResource.cache
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.AssemblyInfoInputs.cache
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.AssemblyInfo.cs
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.csproj.CoreCompileInputs.cache
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.dll
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\refint\proces.dll
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.pdb
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\proces.genruntimeconfig.cache
+C:\2025-2026\NET\lab4\LabFour\proces\obj\Debug\net8.0-windows\ref\proces.dll
