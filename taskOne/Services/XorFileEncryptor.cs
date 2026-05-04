@@ -11,7 +11,7 @@ namespace taskOne.Services
 {
     public class XorFileEncryptor : IFileEncryptor
     {
-        private const int BufferSize = 4096;
+
 
         public EncryptionResult Process(
      string inputPath,
@@ -27,7 +27,7 @@ namespace taskOne.Services
             using FileStream input = new FileStream(inputPath, FileMode.Open, FileAccess.Read);
             using FileStream output = new FileStream(outputPath, FileMode.Create, FileAccess.Write);
 
-            byte[] buffer = new byte[4096];
+ byte[] buffer = new byte[BufferSize];
             long totalBytes = input.Length;
             long processedBytes = 0;
 
