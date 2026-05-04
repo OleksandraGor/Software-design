@@ -33,11 +33,7 @@ namespace taskOne
         // ==========================
         // КНОПКИ
         // ==========================
-        private void Timer_Tick(object sender, EventArgs e)
-        {
-            TimeSpan elapsed = DateTime.Now - _startTime;
-            lblElapsedTime.Text = $"Час: {elapsed:hh\\:mm\\:ss}";
-        }
+     
 
         private void btnBrowse_Click(object sender, EventArgs e)
         {
