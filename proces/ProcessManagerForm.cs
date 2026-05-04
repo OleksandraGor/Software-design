@@ -53,7 +53,7 @@ namespace proces
                         dgvProcesses.Rows[rowIndex].Selected = true;
                     }
                 }
-                catch
+                catch (Win32Exception)
                 {
                 }
             }
